@@ -1,0 +1,9 @@
+Host 68.183.94.23
+  HostName 68.183.94.23
+  port 9011
+  user frappe
+  
+  
+Host 206.189.142.218
+  HostName 206.189.142.218
+  User root
